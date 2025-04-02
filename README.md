@@ -8,5 +8,5 @@ it uses [axum](https://crates.io/crates/axum) and [tower](https://crates.io/crat
 
 
 ```
-usage -p <PORT> -
+usage : http-servile -p <PORT> <PATH>
 ```
